@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/Test.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Body.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/ca03165996aa4d4db394da9a50b36300.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Eye.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/eye_dinosaur_02_Diffuse.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/eye_dinosaur_02_Normal.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/internal_ground_ao_texture.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Tyrant_King_2_Diffuse_copy.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Tyrant_King_2_Glossiness_copy.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Tyrant_King_2_LightingMap.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Tyrant_King_2_Normal_copy.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Tyrant_King_2_SubSurface.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Material/Body.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Material/Eye.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Textures/eye_dinosaur_02_Diffuse.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Textures/eye_dinosaur_02_Normal.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Textures/internal_ground_ao_texture.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Textures/Tyrant_King_2_Diffuse_copy.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Textures/Tyrant_King_2_Glossiness_copy.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Textures/Tyrant_King_2_LightingMap.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Textures/Tyrant_King_2_Normal_copy.uasset",
+				"C:/Users/Austin/Desktop/UnityProjects/DinoGun/DinoGun/Content/ABechdol/T-rex/Textures/Tyrant_King_2_SubSurface.uasset"
+			]
+		}
+	]
+}

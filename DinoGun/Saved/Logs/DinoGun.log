@@ -7287,3 +7287,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.29-05.03.08:319][917]LogD3D12RHI: Waited for PSO creation for 100.000000ms
 [2025.08.29-05.03.09:728][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
 [2025.08.29-05.03.12:564][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.29-05.03.42:587][334]LogDerivedDataCache: C:/Users/tposselt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.29-05.03.59:045][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.08.29-05.03.59:047][383]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.027

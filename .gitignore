@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+DinoGun/Saved/Logs/*
+DinoGun/Saved/Logs/DinoGun.log
+DinoGun\Saved\Logs\DinoGun.log
+DinoGun/Saved/Configs/CrashReportClient/*

@@ -22,7 +22,7 @@
 ------------
 
 When the Chicxulub asteroid was on it's way to earth, the biggest Tyrannosaurus decided to defelect it with weapons. 
-It turns out the astroid wasn't an astroid but a weapon from the other dinosaurs that live on Mars, and now your mission is to execute them all. 
+It turns out the astroid was sent from the dinosaur population from Mars, and now your mission is to execute them all for trying to destroy earth. 
 DinoGun is a third person shooter inspired by Doom and Dinoblade where you have to defeat hoards of Mars dinosaurs in order to win the war between dinos.
 
 ## :computer: Technologies
